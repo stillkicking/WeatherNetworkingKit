@@ -17,7 +17,7 @@ let package = Package(
         .binaryTarget(
             name: "WeatherNetworkingKit",
             url: "https://github.com/still-kicking-test/WeatherNetworkingKit/releases/download/v1.0.0/WeatherNetworkingKit.xcframework.zip",
-            checksum: "3ecf787545e3f8948cbf1d733139abe144065ce509b727b3d23d81cdd4736037"
+            checksum: "11accbad8f45d575064efe9ade59d1da811ccb1593ff66a16033064ab8d1ad69"
         ),
     ]
 )
